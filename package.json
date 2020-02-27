@@ -1,0 +1,16 @@
+{
+  "name": "ts-dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrewozhegov",
+  "license": "ISC"
+}
