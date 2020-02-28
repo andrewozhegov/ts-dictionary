@@ -14,3 +14,8 @@ let settings: DisctionarySettings = {
     priority_decrease_value: 1
 }
 
+class Word { 
+    public word: string;
+    public translate: string;
+}
+
